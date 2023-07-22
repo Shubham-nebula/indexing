@@ -2,4 +2,4 @@ flask
 langchain
 pypdf
 pinecone-client
-
+azure-storage-blob
