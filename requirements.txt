@@ -1,0 +1,5 @@
+flask
+langchain
+pypdf
+pinecone-client
+
