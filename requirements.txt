@@ -3,3 +3,4 @@ langchain
 pypdf
 pinecone-client
 azure-storage-blob
+gunicorn
